@@ -1,0 +1,13 @@
+{
+  "device": {
+    "sysname": "core-router-01"
+  },
+  "security": {
+    "ssh": {
+      "server": "version 1"
+    },
+    "stelnet": {
+      "server": "enable"
+    }
+  }
+}
