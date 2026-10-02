@@ -18,6 +18,9 @@ cd SIH-2026-multivendor-security
 
 3. Run the dashboard:
 python dashboard.py
+## 🚀 Live Dashboard
+
+[Open PHELKROS Command Plane](https://phelkros-dashboard-2.vercel.app/)
 
 ## Development Roadmap
 - [x] Multi-vendor config normalization pipeline (Localhost)
